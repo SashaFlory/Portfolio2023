@@ -1,0 +1,11 @@
+body {
+    background-image: url(/public/fondopower.jpg) ;
+    background-size: cover;
+    align-items: center;
+}
+p {
+    color: aliceblue;
+}
+h1 { color: aqua;}
+h2 { color: bisque;}
+ul { color: gold}
