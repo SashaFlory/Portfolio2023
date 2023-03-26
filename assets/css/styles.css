@@ -7,5 +7,8 @@ p {
     color: aliceblue;
 }
 h1 { color: aqua;}
-h2 { color: bisque;}
+h2 { color: rgb(242, 181, 107);}
 ul { color: gold}
+.wide {
+    width: 800px;
+}
