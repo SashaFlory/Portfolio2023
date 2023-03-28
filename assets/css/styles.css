@@ -2,13 +2,42 @@ body {
     background-image: url(/public/fondopower.jpg) ;
     background-size: cover;
     align-items: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.perfil {
+    float: left;
+    border-radius: 50%;
+    width: 200px;
+    height: auto;
 }
 p {
-    color: aliceblue;
+    color: rgb(255, 230, 153);
+    font-size: large;
 }
-h1 { color: aqua;}
+ul {font-size: large;
+    margin-left: 200px;
+}
+h1 { color: rgb(255, 181, 32);}
 h2 { color: rgb(242, 181, 107);}
-ul { color: gold}
+h4 { color: rgb(242, 181, 107);
+    margin-left: 200px;
+}
+ul { color: rgb(255, 230, 153)}
 .wide {
     width: 800px;
+}
+.izquierda {
+    float: left;
+    width: 400px;
+    height: auto;
+    margin-right: 40px;
+}
+.derecha {
+    float: right;
+    width: 400px;
+    height: auto;
+}
+.rubicentro {
+    margin-right: 40px;
 }
