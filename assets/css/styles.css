@@ -49,9 +49,6 @@ h5 {
     font-size: large;
     margin-left: 250px;
 }
-.color {
-    color: rgb(255, 181, 32);
-}
 .botones { 
     display: flex;
     margin-left: 20%;
