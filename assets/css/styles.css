@@ -15,8 +15,8 @@ body {
     float: left;
     border-radius: 50%;
     width: 180px;
-    margin-left: 150px;
-    margin-right: 50px;
+    margin-left: 120px;
+    margin-right: 40px;
 }
 p {
     color: rgb(255, 230, 153);
@@ -25,10 +25,11 @@ p {
     margin-right: 200px;
 }
 ul {font-size: large;
-    margin-left: 250px;
+    margin-left: 310px;
     margin-right: 200px;
     color: rgb(255, 230, 153);
     margin-bottom: 30px;
+    text-align: justify;
 }
 h1 {
     color: rgb(255, 181, 32);
@@ -37,6 +38,7 @@ h1 {
 }
 h2 { color: rgb(242, 181, 107);
     text-align: center;
+    margin: 20px 0;
 }
 h4 {
     color: rgb(242, 181, 107);
@@ -46,6 +48,9 @@ h5 {
     color: rgb(255, 230, 153);
     font-size: large;
     margin-left: 250px;
+}
+.color {
+    color: rgb(255, 181, 32);
 }
 .botones { 
     display: flex;
@@ -66,12 +71,16 @@ h5 {
     width: 400px;
 }
 .gatas2 {
-    clear: both;
+    float: left;
     height: 533px;
-    width: auto;
-    margin: 0 1%;
+    margin: 0 1.9%;
 }
 .gatas3 {
     float: right;
-    width: 400px;
+    width: 400px;;
+}
+.gatas4 {
+    float: right;
+    height: 533px;
+    margin: 0 1.9%;
 }
